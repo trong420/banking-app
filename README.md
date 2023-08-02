@@ -1,5 +1,5 @@
 # Basic Banking App
-Use UWP (Universal Windows Flatform) Apps to build basic banking app
+Use UWP (Universal Windows Flatform) to build basic banking app
 
 # FEATURES
 
